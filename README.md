@@ -6,20 +6,31 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
+Start the program
 ### Step 2: 
- 
+ Give the input string.
 ### Step 3: 
-
+Print the original string
 ### Step 4:  
-
+Using len(test_string.split()) get the result.
 ### Step 5: 
-
+Print thw word count
 ### Step 6: 
-
+End the program.
 ## PROGRAM:
+```
+#python programfor word count
+#developed by: Jyesvanthe v
+#reference number : 23013991
+
+test_string="python program in linear algebra"
+print("The original string is : ",test_string)
+result= len(test_string.split())
+print("The number of words in string are : ",str(result)
 
 ### OUTPUT:
+
+![Alt text](<Screenshot 2024-01-01 130821.png>)
 
 
 
