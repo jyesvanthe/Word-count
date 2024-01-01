@@ -28,13 +28,8 @@ print("The original string is : ",test_string)
 result= len(test_string.split())
 print("The number of words in string are : ",str(result)
 
-### OUTPUt :
-![image](https://github.com/jyesvanthe/Word-count/assets/150319392/56189e25-84b8-48dc-84fa-b040c93cf118)
-
-
-
-
-
+### OUTPUT:
+![Screenshot 2024-01-01 130821](https://github.com/jyesvanthe/Word-count/assets/150319392/6b669f16-33ff-4ede-80e9-36fb36c67a0a)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
