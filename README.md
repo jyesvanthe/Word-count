@@ -30,7 +30,8 @@ print("The number of words in string are : ",str(result)
 
 ### OUTPUT:
 
-![Alt text](<Screenshot 2024-01-01 130821.png>)
+![Screenshot 2024-01-01 130821](https://github.com/jyesvanthe/Word-count/assets/150319392/10897d1b-7921-44c5-8a0b-c636190289fe)
+
 
 
 
