@@ -28,9 +28,9 @@ print("The original string is : ",test_string)
 result= len(test_string.split())
 print("The number of words in string are : ",str(result)
 
-### OUTPUT:
+### OUTPUt :
+![Screenshot 2024-01-01 130821](https://github.com/jyesvanthe/Word-count/assets/150319392/09a223df-4800-4d6d-9d1a-9f6485e0dac5)
 
-![Screenshot 2024-01-01 130821](https://github.com/jyesvanthe/Word-count/assets/150319392/10897d1b-7921-44c5-8a0b-c636190289fe)
 
 
 
