@@ -27,7 +27,7 @@ test_string="python program in linear algebra"
 print("The original string is : ",test_string)
 result= len(test_string.split())
 print("The number of words in string are : ",str(result)
-
+```
 ### OUTPUT:
 ![Screenshot 2024-01-01 130821](https://github.com/jyesvanthe/Word-count/assets/150319392/6b669f16-33ff-4ede-80e9-36fb36c67a0a)
 
